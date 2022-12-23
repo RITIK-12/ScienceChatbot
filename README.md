@@ -11,6 +11,7 @@
 3. ` ./start.sh`
   
 ### Model
+<img width="1095" alt="Screenshot 2022-12-23 at 9 58 24 PM" src="https://user-images.githubusercontent.com/54806252/209367920-0a102aeb-3ad5-42d1-a453-912f1b55d7f1.png">
 
 The [XLNet model](https://huggingface.co/model-attribution-challenge/xlnet-base-cased) is used for question answering via huggingface pipeline. XLNet is a new unsupervised language representation learning method based on a novel generalized permutation language modeling objective. It employs Transformer-XL as the backbone model, exhibiting excellent performance for language tasks involving long context. XLNet achieves state-of-the-art (SOTA) results on various downstream language tasks including question answering, natural language inference, sentiment analysis, and document ranking.
 
