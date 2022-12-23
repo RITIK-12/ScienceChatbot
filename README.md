@@ -24,4 +24,4 @@ The XLNet was introduced in the paper [XLNet: Generalized Autoregressive Pretrai
 
 ### Implementation
 
-
+https://user-images.githubusercontent.com/54806252/209368495-2b02930a-986b-4200-bc97-87d84b21d85e.mp4
