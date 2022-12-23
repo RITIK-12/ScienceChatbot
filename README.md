@@ -2,6 +2,9 @@
 #### NLP chatbot for answering questions about science by [Ritik Bompilwar](https://ritik.app/)
 
 ### Instructions
+
+Please run the following command to get the system running.
+
 1. ` git clone https://github.com/RITIK-12/openfabrictest.git`
 
 
@@ -11,7 +14,8 @@
 3. ` ./start.sh`
   
 ### Model
-![image](https://user-images.githubusercontent.com/54806252/209368115-95eb6734-66b4-4a63-96e7-494a036a46d5.png)
+<img width="1064" alt="Screenshot 2022-12-23 at 10 01 18 PM" src="https://user-images.githubusercontent.com/54806252/209368228-5e623c29-6176-44d2-b7aa-61ce2d2a7fa5.png">
+
 
 
 The [XLNet model](https://huggingface.co/model-attribution-challenge/xlnet-base-cased) is used for question answering via huggingface pipeline. XLNet is a new unsupervised language representation learning method based on a novel generalized permutation language modeling objective. It employs Transformer-XL as the backbone model, exhibiting excellent performance for language tasks involving long context. XLNet achieves state-of-the-art (SOTA) results on various downstream language tasks including question answering, natural language inference, sentiment analysis, and document ranking.
