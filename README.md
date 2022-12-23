@@ -23,9 +23,3 @@ The [XLNet model](https://huggingface.co/model-attribution-challenge/xlnet-base-
 The XLNet was introduced in the paper [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) by Yang et al. The model is pre-trained on [wikipedia](https://huggingface.co/datasets/wikipedia) and [bookcorpus](https://huggingface.co/datasets/bookcorpus) datasets. Here, the model is used in the inference mode only and integrated into the openfabric pipeline.
 
 ### Implementation
-
-
-
-https://user-images.githubusercontent.com/54806252/209368976-83d1c4c1-09bf-4a46-ba64-63f81046aa8c.mp4
-
-
