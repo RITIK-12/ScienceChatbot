@@ -19,7 +19,7 @@ def index():
 class OpenfabricStarter:
 
     @staticmethod
-    def ignite(debug, host, port=5000):
+    def ignite(debug, host, port=8000):
         # Setup logger
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)
